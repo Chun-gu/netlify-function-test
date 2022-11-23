@@ -4,3 +4,11 @@
 [[redirects]]
   from = "/hello"
   to = "/.netlify/functions/hello"
+
+[[redirects]]
+  from = "/image/uploadfile"
+  to = "/.netlify/functions/image"
+
+[[redirects]]
+  from = "/image/uploadfiles"
+  to = "/.netlify/functions/image"
