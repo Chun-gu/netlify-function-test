@@ -7,8 +7,8 @@
 
 [[redirects]]
   from = "/image/uploadfile"
-  to = "/.netlify/functions/image"
+  to = "/.netlify/functions/uploadImage"
 
 [[redirects]]
   from = "/image/uploadfiles"
-  to = "/.netlify/functions/image"
+  to = "/.netlify/functions/uploadImage"
