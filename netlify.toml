@@ -1,0 +1,6 @@
+[functions]
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/hello"
+  to = "/.netlify/functions/hello"
